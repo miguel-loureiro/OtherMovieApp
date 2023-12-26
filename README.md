@@ -2,7 +2,6 @@
 #### Create Infinite scrolling iOS App with MVVM arcitecure, Well-designed REST Client Networking request and Swift4 programming laguage!!!!
 
 
-
 What is the best practices for MVVM design pattern?<br/>
 What is the best practice for an Xcode project groups structure?<br/>
 What is the best Practice for communication to a REST API with JSON?<br/>
